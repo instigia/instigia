@@ -1,23 +1,5 @@
-
-  _           _   _       _ 
-<br>
- (_)         | | (_)     (_)      
- <br>
-  _ _ __  ___| |_ _  __ _ _  __ _  
-  <br>
- | | '_ \/ __| __| |/ _` | |/ _` | 
- <br>
- | | | | \__ \ |_| | (_| | | (_| | 
- <br>
- |_|_| |_|___/\__|_|\__, |_|\__,_| 
- <br>
-                     __/ |         
-  <br>
-                    |___/  
-  <br>
-  <br>
-
 Hi I'm Ryan, otherwise known as @instigia.
+<br>
 <br>
 Any donation is appreciated :)
 <br>
